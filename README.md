@@ -6,4 +6,6 @@ Tableau Data Visualization Projects
 A collection of interactive Tableau dashboards focused on business insights, performance analysis, and visual storytelling. These projects demonstrate my ability to analyze datasets and present insights using clean, meaningful visualizations.
 
 ![image alt](https://github.com/pillidharani27-alt/Tableau-Projects/blob/main/Tableau_Dashboard.png?raw=true)
+![image alt](https://github.com/pillidharani27-alt/Tableau-Projects/blob/main/Actor_dashboard.png?raw=true)
+
 
